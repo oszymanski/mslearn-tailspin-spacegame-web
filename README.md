@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/szymanskioskar93/MSLearn%20Azure%20Pipelines%20-%20workflows/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/szymanskioskar93/MSLearn%20Azure%20Pipelines%20-%20workflows/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
